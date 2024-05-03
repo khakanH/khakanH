@@ -91,7 +91,7 @@
  
 <br>
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-<body>
+
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/khakanhayder rel="nofollow" target="_blank" style='display: inline-block;'>
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-4db6a5f7-ab12-47bc-8910-5ceeff3445d2' itemprop='contentURL' style='display: none;'></div>
