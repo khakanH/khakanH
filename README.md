@@ -92,18 +92,20 @@
 <br>
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+  <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/khakanhayder rel="nofollow" target="_blank" style='display: inline-block;'>
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-4db6a5f7-ab12-47bc-8910-5ceeff3445d2' itemprop='contentURL' style='display: none;'></div>
         <div id='fiverr-widget-seller-data' style='display: none;'>
             <div itemprop='name' >khakanhayder</div>
             <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
             <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Experienced Senior Software Engineer with seven years of expertise crafting seamless, secure, and scalable web and mobile applications. I leverage cutting-edge technologies including Nodejs, Reactjs, Nestjs, Nextjs, TypeScript, MongoDB, and PostgreSQL to develop robust solutions tailored to your needs. Proficient in WordPress and Shopify, I specialize in building dynamic e-commerce platforms alongside traditional web and mobile applications. Let's collaborate to bring your digital vision to life!</div>
+           
+		<div itemprop='description'>Experienced Senior Software Engineer with seven years of expertise crafting seamless, secure, and scalable web and mobile applications. I leverage cutting-edge technologies including Nodejs, Reactjs, Nestjs, Nextjs, TypeScript, MongoDB, and PostgreSQL to develop robust solutions tailored to your needs. Proficient in WordPress and Shopify, I specialize in building dynamic e-commerce platforms alongside traditional web and mobile applications. Let's collaborate to bring your digital vision to life!</div>
         </div>
     </a>
 </div>
 
-<script id='fiverr-seller-widget-script-4db6a5f7-ab12-47bc-8910-5ceeff3445d2' src='https://widgets.fiverr.com/api/v1/seller/khakanhayder?widget_id=4db6a5f7-ab12-47bc-8910-5ceeff3445d2' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
+	<script id='fiverr-seller-widget-script-4db6a5f7-ab12-47bc-8910-5ceeff3445d2' src='https://widgets.fiverr.com/api/v1/seller/khakanhayder?widget_id=4db6a5f7-ab12-47bc-8910-5ceeff3445d2' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
 </body>
