@@ -20,7 +20,7 @@
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 Khakanworkspace.5@gmail.com, Khakan.h@vconekt.com
+📧 Khakanworkspace.5@gmail.com, Khakan@vconekt.co
 
 🎨 Portfolio: https://vconekt.com/,https://www.upwork.com/freelancers/khakanhayder
 
